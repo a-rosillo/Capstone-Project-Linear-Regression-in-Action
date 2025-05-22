@@ -1,4 +1,6 @@
-# Capstone-Project-Linear-Regression-in-Action
+# Linear Regression in Action
+# Capstone Project
+
 # Predicting Sales Prices
 
  ## Dataset Attributes
