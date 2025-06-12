@@ -1,4 +1,4 @@
-# Predicting property sale prices in Ames using linea regression
+# Predicting property sale prices in Ames using linear regression
 Linear Regression in Action
 Capstone Project
 
